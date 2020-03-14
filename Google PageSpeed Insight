@@ -63,3 +63,10 @@
 </IfModule>
 
 whsec_edb5yLhmOsaK29ENK4gm1wHJ6JewPkFl
+
+
+
+var flkty = new Flickity('.fareClassDetails');
+flkty.resize()
+
+
